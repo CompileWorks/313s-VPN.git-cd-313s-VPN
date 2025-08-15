@@ -6,4 +6,7 @@
 ## **🚀 Quick Start**  
 1. **Run on Server:**  
    ```bash
-   sudo ./setup.sh
+   ## What's New (v2.0)
+- Country selection menu  
+- Better OS compatibility  
+- Auto client config generation
